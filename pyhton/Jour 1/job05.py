@@ -1,0 +1,17 @@
+alphabet= "zyxvutsrqponmlkjihgfedcba"
+print (alphabet)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

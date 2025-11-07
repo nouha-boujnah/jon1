@@ -1,0 +1,21 @@
+poids = 80    
+print (poids)
+
+
+print("ton poids est", poids , "ans")
+print(str(poids) + " ans")
+print(f"{poids} ans")
+
+profession = "élève seduisant"
+profession_aujourdhui = "vendeuse"
+print()
+print(poids)
+poids= 80.4
+print(poids)
+
+
+pain= "seigle"
+
+baguette= 30
+print (f" je vends des {pain} et il y en a {baguette}")
+
